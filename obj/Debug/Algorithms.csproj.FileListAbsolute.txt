@@ -1,0 +1,6 @@
+D:\Repository\Algorithms\bin\Debug\Algorithms.dll
+D:\Repository\Algorithms\bin\Debug\Algorithms.pdb
+D:\Repository\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+D:\Repository\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+D:\Repository\Algorithms\obj\Debug\Algorithms.dll
+D:\Repository\Algorithms\obj\Debug\Algorithms.pdb
